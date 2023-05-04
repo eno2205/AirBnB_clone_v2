@@ -1,0 +1,13 @@
+__pycache__
+*.json
+rootMysql
+test_params_create
+main_delete.py
+installFabric
+versions
+test.py
+tmp__init__.py
+tmp*.py
+err
+out
+main.py
